@@ -204,6 +204,7 @@ def compare_cow_transport_algorithms():
     
     
 #To run the code:
-compare_cow_transport_algorithms()
+if __name__ == '__main__':
+    compare_cow_transport_algorithms()
 
 
